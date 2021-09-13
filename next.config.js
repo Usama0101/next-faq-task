@@ -1,7 +1,7 @@
 module.exports = {
   env: {
     DB_LOCAL_URI: "mongodb://localhost:27017/bookit",
-    DB_URI: "mongodb+srv://Usama123:Usama@123@cluster0.jgcrk.mongodb.net/Cluster0?retryWrites=true&w=majority",
+    DB_URI: "mongodb+srv://Usama123:Usama123@cluster0.jgcrk.mongodb.net/Cluster0?retryWrites=true&w=majority",
     CLOUDINARY_CLOUD_NAME: 'dhbdo3gzl',
     CLOUDINARY_API_KEY: '938996561528655',
     CLOUDINARY_API_SECRET: 'wDJBP9I5kFSJgSLBAOzgwrn3IZQ',

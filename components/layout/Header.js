@@ -3,6 +3,7 @@ import Link from 'next/link'
 import { useDispatch, useSelector } from 'react-redux';
 import { loadUser } from '../../redux/actions/userActions';
 import { signOut } from 'next-auth/client';
+import Script from 'next/script'
 
 function Header() {
 

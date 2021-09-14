@@ -2,7 +2,6 @@ import Home from '../components/Home';
 import Layout from '../components/layout/Layout'
 import { getFaqs } from '../redux/actions/faqActions';
 import { getSession } from 'next-auth/client';
-import Script from 'next/script'
 import { wrapper } from '../redux/store';
 
 export default function Index() {
